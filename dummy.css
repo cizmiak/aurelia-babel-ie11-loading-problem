@@ -1,0 +1,11 @@
+﻿.dummy {
+    animation-name: dummy;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+}
+
+@keyframes dummy {
+  0% {
+    background-color: transparent;
+  }
+}
